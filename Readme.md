@@ -41,5 +41,5 @@ A feature-rich Pinterest clone built with the MERN stack (MongoDB, Express.js, R
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pinterest-clone.git
+   git clone https://github.com/durgesh3s/pinterest.git
    cd pinterest-clone
