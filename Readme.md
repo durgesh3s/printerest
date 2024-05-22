@@ -26,7 +26,7 @@ A feature-rich Pinterest clone built with the MERN stack (MongoDB, Express.js, R
 ## Screenshots
 
 ![Create Account](https://drive.google.com/file/d/184dgPehWd23lpoEDQj-1eS4e7Hl2x3Zc/view?usp=drive_link)
-![login in account]([paste_image_url_here](https://drive.google.com/file/d/1qJ4857dnolsPY7w-pyUsCsccPr2md0Bb/view?usp=drive_link))
+![login in account](https://drive.google.com/file/d/1qJ4857dnolsPY7w-pyUsCsccPr2md0Bb/view?usp=drive_link)
 ![You can edit profile pic and see all his posts](https://drive.google.com/file/d/1i57XyZ2gw6p1H7_Qz-gPtbWfAk1XB3FR/view?usp=drive_link)
 ![You can upload a post](https://drive.google.com/file/d/1Bi_ob-YSEg_UCTZLXoCuf5LqqgtVMja3/view?usp=drive_link)
 ![You can check everyone's feed](https://drive.google.com/file/d/1IOyd4YKgAeFqZO_zR7TXPJE2sfav18Lb/view?usp=drive_link)
