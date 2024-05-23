@@ -1,4 +1,4 @@
-# Pinterest Clone Web App (MERN Stack)
+# Pinterest Web App (MERN Stack)
 
 A feature-rich Pinterest clone built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Includes user authentication, image upload, pin management, and responsive design. Perfect for demonstrating modern full-stack development techniques.
 
